@@ -18,6 +18,11 @@
 ./gradlew test
 ```
 
+## Integration Test
+```
+./gradlew integrationTest
+```
+
 ## Local Run
 ```
 docker-compose up -d
